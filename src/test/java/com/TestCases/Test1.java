@@ -12,5 +12,11 @@ public class Test1 {
 	public void Demo2() {
 		System.out.println("Test1 Demo2");
 	}
+	
+
+	@Test
+	public void Demo3() {
+		System.out.println("Test1 Demo3");
+	}
 
 }
